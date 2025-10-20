@@ -1,0 +1,8 @@
+[
+{
+  "directory": "/home/misaka/SWU_WorkSpace/C_CPP_Learning/Hello_World/build",
+  "command": "g++   -g -std=gnu++17 -o CMakeFiles/HelloWorld.dir/src/main.cpp.o -c /home/misaka/SWU_WorkSpace/C_CPP_Learning/Hello_World/src/main.cpp",
+  "file": "/home/misaka/SWU_WorkSpace/C_CPP_Learning/Hello_World/src/main.cpp",
+  "output": "CMakeFiles/HelloWorld.dir/src/main.cpp.o"
+}
+]

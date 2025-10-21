@@ -11,11 +11,20 @@ int main()
     double b;
     double angleDeg;
     printf ("请输入第一边边长a=");
-    scanf ("%lf",&a);
+    if (scanf ("%lf",&a) !=1 || a <=0) {
+        printf("输入错误，边长必须为正数。\n");
+        return 1;
+    }
     printf ("请输入第二边边长b=");
-    scanf ("%lf",&b);
+    if (scanf ("%lf",&b) !=1 || b <=0) {
+        printf("输入错误，边长必须为正数。\n");
+        return 1;
+    }
     printf ("请输入两边的夹角angleDeg=");
-    scanf ("%lf",&angleDeg);
+    if (scanf ("%lf",&angleDeg) !=1 || angleDeg <=0 || angleDeg >=180) {
+        printf("输入错误，夹角必须在0到180度之间。\n");
+        return 1;
+    }
     //计算第三边的边长
     double angle;
     angle = angleDeg*(PI/180);

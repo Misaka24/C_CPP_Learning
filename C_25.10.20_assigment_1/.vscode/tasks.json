@@ -2,9 +2,9 @@
   "version": "2.0.0",
   "tasks": [
     {
-      "label": "HelloWorld",
+      "label": "Tri-Calculator",
       "type": "shell",
-      "command": "${workspaceFolder}/build/HelloWorld",
+      "command": "${workspaceFolder}/build/Tri-Calculator",
       "group": {
         "kind": "test",
         "isDefault": true

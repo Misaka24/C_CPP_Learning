@@ -4,9 +4,10 @@
 int main()
 {
     //输出学号及姓名
-    printf("学号: 222024321062072\n");
+    printf("\n学号: 222024321062072\n");
     printf("姓名: 宋龚擎宇\n");
     //输入两边长及夹角
+    printf("\n=== 数据输入 ===\n");
     double a;
     double b;
     double angleDeg;

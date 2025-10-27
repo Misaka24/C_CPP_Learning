@@ -1,0 +1,3 @@
+/home/misaka/SWU_WorkSpace/C_CPP_Learning/C_25.10.27_assigment_2/build-v2/CMakeFiles/NumberDistinguish-v2.dir
+/home/misaka/SWU_WorkSpace/C_CPP_Learning/C_25.10.27_assigment_2/build-v2/CMakeFiles/edit_cache.dir
+/home/misaka/SWU_WorkSpace/C_CPP_Learning/C_25.10.27_assigment_2/build-v2/CMakeFiles/rebuild_cache.dir

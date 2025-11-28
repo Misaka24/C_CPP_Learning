@@ -14,15 +14,22 @@ int related_function(int x){
 }
 
 int main(){
+//introduce the program
+    printf("this program is to calculate the sum of squares of numbers not related to 7 in a given range.\n");
 //input n to set a range
-    printf("please input n(0<n<=100):\n");
+    printf("please input n,the range of nums to calculate(0<n<=100):\n");
     int n;
     scanf("%d", &n);
+//check the validity of input
+    if (n<=0 || n>100){
+        printf("invalid input,please input a num between 0 and 100.\n");
+        return -1;
+    }
 //calculate the sum of squares of numbers not related to 7
     int sum = 0;
-    for (int i=1; i<=n; i++){
-        if(related_function(i) == 0){
-            sum = sum + i*i;
+    for (int each_num=1; each_num<=n; each_num++){
+        if(related_function(each_num) == 0){
+            sum = sum + each_num*each_num;
         }
     }
 //output the result

@@ -1,0 +1,1 @@
+gcc -g "CMakeFiles/Sum-of-even-nums.dir/src/main.c.o" -o Sum-of-even-nums 

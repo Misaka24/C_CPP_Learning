@@ -1,0 +1,8 @@
+[
+{
+  "directory": "/home/misaka/SWU_WorkSpace/C_CPP_Learning/C_25.11.11_assigment_2/build",
+  "command": "gcc   -g -o CMakeFiles/Char-ASCII-Sorter.dir/src/main.c.o -c /home/misaka/SWU_WorkSpace/C_CPP_Learning/C_25.11.11_assigment_2/src/main.c",
+  "file": "/home/misaka/SWU_WorkSpace/C_CPP_Learning/C_25.11.11_assigment_2/src/main.c",
+  "output": "CMakeFiles/Char-ASCII-Sorter.dir/src/main.c.o"
+}
+]

@@ -1,0 +1,1 @@
+gcc -g "CMakeFiles/Char-ASCII-Sorter.dir/src/main.c.o" -o Char-ASCII-Sorter 

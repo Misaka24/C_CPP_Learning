@@ -1,0 +1,8 @@
+[
+{
+  "directory": "/home/misaka/SWU_WorkSpace/C_CPP_Learning/C_25.11.11_assigment_1/build",
+  "command": "gcc   -g -o CMakeFiles/Array-caculator.dir/src/main.c.o -c /home/misaka/SWU_WorkSpace/C_CPP_Learning/C_25.11.11_assigment_1/src/main.c",
+  "file": "/home/misaka/SWU_WorkSpace/C_CPP_Learning/C_25.11.11_assigment_1/src/main.c",
+  "output": "CMakeFiles/Array-caculator.dir/src/main.c.o"
+}
+]

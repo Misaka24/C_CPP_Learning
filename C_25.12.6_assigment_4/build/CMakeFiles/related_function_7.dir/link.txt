@@ -1,0 +1,1 @@
+gcc -g CMakeFiles/related_function_7.dir/src/main.c.o -o related_function_7 

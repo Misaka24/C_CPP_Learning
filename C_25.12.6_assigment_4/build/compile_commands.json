@@ -1,0 +1,8 @@
+[
+{
+  "directory": "/home/misaka/SWU_WorkSpace/C_CPP_Learning/C_25.12.6_assigment_4/build",
+  "command": "gcc   -g -o CMakeFiles/related_function_7.dir/src/main.c.o -c /home/misaka/SWU_WorkSpace/C_CPP_Learning/C_25.12.6_assigment_4/src/main.c",
+  "file": "/home/misaka/SWU_WorkSpace/C_CPP_Learning/C_25.12.6_assigment_4/src/main.c",
+  "output": "CMakeFiles/related_function_7.dir/src/main.c.o"
+}
+]
